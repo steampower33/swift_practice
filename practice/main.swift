@@ -8,4 +8,7 @@
 import Foundation
 
 //closure()
-property()
+//property()
+//property_apply()
+//localGlobalVar()
+propertyObserver ()
