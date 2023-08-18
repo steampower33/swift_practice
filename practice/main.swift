@@ -11,4 +11,5 @@ import Foundation
 //property()
 //property_apply()
 //localGlobalVar()
-propertyObserver ()
+//propertyObserver ()
+inheritance()
